@@ -3,8 +3,6 @@ compile:
 
 g++ -std=c++11 -o bss bss.cpp
 
-
-
 usage examples:
 
 ./bss
