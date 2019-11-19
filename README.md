@@ -11,4 +11,4 @@ usage examples:
 
 ./bss -c TUR -t cable
 
-Note: Reading countries.geojson from filesystem and parsing takes ~97% of running time. This application uses Nlohmann's single header JSON code. RapidJSON can be used for faster parsing.
+Note: Reading and parsing countries.geojson file takes ~97% of running time. This application uses Nlohmann's single header JSON code. RapidJSON can be used for faster parsing.
